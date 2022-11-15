@@ -1,0 +1,3 @@
+stock market : 
+Leverages - it is a part of MIS(Margin Intraday square of) in this at the time of buying or selling share app will give some margin 
+            on share price the margin is different for share.
